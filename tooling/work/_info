@@ -1,0 +1,100 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\admin\Desktop\Projekat\tooling
+valu_sim
+!i10b 1
+!s100 5Lm11NLWE;D>L4n;]TaQ91
+IS0;g4P]S<lA=conKZNfM52
+VSo^O^cOj2>B09_4Rz_8FT2
+Z1 dC:\Users\admin\Desktop\Projekat\tooling
+w1755358418
+8../src/simulation/modules/alu_sim.v
+F../src/simulation/modules/alu_sim.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z3 !s108 1756124010.365000
+Z4 !s107 ../src/simulation/top_mem.v|../src/simulation/modules/mem_sim.v|../src/simulation/top_sim.v|../src/simulation/modules/register_sim.v|../src/simulation/modules/alu_sim.v|
+Z5 !s90 -work|work|-l|./vlog_compile.log|-override_timescale|1 ps / 1 ps|../src/simulation/modules/alu_sim.v|../src/simulation/modules/register_sim.v|../src/simulation/top_sim.v|../src/simulation/modules/mem_sim.v|../src/simulation/top_mem.v|
+!s101 -O0
+Z6 o-work work -override_timescale {1 ps / 1 ps} -O0
+vmem_sim
+!i10b 1
+!s100 CX`MDiI4eC[]fSG3l@Pg=2
+I8:N3K:USk@<^_1@GgSOWn0
+VCc[WBUlf8aGVUKOkK<igU3
+R1
+w1756124006
+8../src/simulation/modules/mem_sim.v
+F../src/simulation/modules/mem_sim.v
+L0 1
+R2
+r1
+!s85 0
+31
+R3
+R4
+R5
+!s101 -O0
+R6
+vregister_sim
+!i10b 1
+!s100 1Q5AB]SfFL5@3ISJjm]2=2
+IB^eb:i0CRT1YlRLzXC[dl0
+VF8k?MK:=YKK3?LV8S6RzN0
+R1
+w1755347390
+8../src/simulation/modules/register_sim.v
+F../src/simulation/modules/register_sim.v
+L0 1
+R2
+r1
+!s85 0
+31
+R3
+R4
+R5
+!s101 -O0
+R6
+vtop_mem
+!i10b 1
+!s100 5H4o0U]o;IeSQg:EH6f=Y0
+IJ6Tz592;9a^:i@:UBdnfQ2
+VgSA2no@PhJF3Y0NfVG5h40
+R1
+w1756123911
+8../src/simulation/top_mem.v
+F../src/simulation/top_mem.v
+L0 1
+R2
+r1
+!s85 0
+31
+R3
+R4
+R5
+!s101 -O0
+R6
+vtop_sim
+!i10b 1
+!s100 >45dcAo5edJXBE;QMVWld1
+Iz>5Mgbc@CE[U>M2F7jK1V0
+VD]Y9oWflcCzolPIaF6K`M0
+R1
+w1755968198
+8../src/simulation/top_sim.v
+F../src/simulation/top_sim.v
+L0 1
+R2
+r1
+!s85 0
+31
+R3
+R4
+R5
+!s101 -O0
+R6

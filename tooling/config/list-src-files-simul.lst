@@ -1,0 +1,7 @@
+src/simulation/modules/alu_sim.v
+src/simulation/modules/register_sim.v
+src/simulation/top_sim.v
+
+
+src/simulation/modules/mem_sim.v
+src/simulation/top_mem.v
